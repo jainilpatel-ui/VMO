@@ -1,0 +1,5 @@
+{
+  "name": "VMO Clause Intelligence",
+  "description": "Enterprise web application for Carrier Corporation to upload contracts, review AI-extracted clauses with benchmarking insights, and add approved contracts to a knowledge base.",
+  "requestFramePermissions": []
+}
